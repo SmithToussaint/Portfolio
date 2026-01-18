@@ -1,0 +1,28 @@
+# Portfolio Jekyll Configuration
+# This file is a fail-safe to ensure GitHub Pages builds correctly.
+
+# 1. Deployment Settings
+# If you deploy from root, keep this as '.'
+# If you deploy from /docs, this may need to be adjusted, but '.' is safest.
+source: .
+destination: _site
+
+# 2. Exclude non-web files to prevent conversion errors
+exclude:
+  - .venv
+  - .agent
+  - Project1_Sales/generate_data.py
+  - Project1_Sales/analysis.sql
+  - Project2_Finance/generate_finance_data.py
+  - Project2_Finance/growth_analysis.py
+  - Project3_HR/generate_hr_data.py
+  - Project3_HR/hr_analysis.py
+  - Project4_NGO/generate_health_data.py
+  - Project4_NGO/health_eda.py
+  - README.md
+  - task.md
+  - implementation_plan.md
+  - walkthrough.md
+
+# 3. Permalinks
+permalink: /:title/

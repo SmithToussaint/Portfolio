@@ -1,0 +1,501 @@
+EmployeeID,Age,Gender,Department,Location,Tenure_Years,Salary,Performance_Rating,Attrition
+1001,50,Female,Marketing,Berlin,12,104027,2,1
+1002,36,Female,Finance,Berlin,9,97906,2,0
+1003,29,Male,Sales,New York,7,68138,4,0
+1004,42,Male,Sales,Tokyo,3,132601,4,0
+1005,40,Male,Finance,Berlin,3,69956,4,0
+1006,44,Female,Finance,Tokyo,3,147268,2,0
+1007,32,Non-Binary,HR,New York,5,144797,3,0
+1008,32,Male,Sales,Tokyo,6,116295,5,0
+1009,45,Male,Marketing,London,5,45439,3,0
+1010,57,Female,Engineering,Paris,0,87241,3,0
+1011,45,Male,Engineering,Berlin,11,82533,2,0
+1012,24,Non-Binary,Finance,Paris,7,68270,3,1
+1013,43,Non-Binary,HR,Tokyo,12,118815,1,0
+1014,23,Male,Engineering,Berlin,9,79279,4,0
+1015,45,Male,Sales,Tokyo,14,149787,1,1
+1016,51,Female,Finance,London,10,63888,5,0
+1017,59,Non-Binary,Marketing,New York,12,57630,4,0
+1018,23,Non-Binary,Finance,Berlin,6,101063,3,0
+1019,42,Male,Marketing,London,5,75144,5,0
+1020,54,Female,Finance,London,5,92161,4,0
+1021,33,Non-Binary,Finance,Berlin,4,136718,3,0
+1022,43,Non-Binary,Finance,Tokyo,5,131074,1,1
+1023,46,Female,Marketing,London,11,117360,4,0
+1024,48,Female,Marketing,Paris,8,90979,3,0
+1025,49,Non-Binary,Finance,London,9,137661,1,0
+1026,37,Non-Binary,Engineering,Tokyo,8,46979,5,0
+1027,36,Female,HR,Tokyo,14,66189,5,0
+1028,24,Non-Binary,HR,Paris,9,82600,5,0
+1029,58,Male,HR,London,7,99560,5,0
+1030,28,Male,Marketing,Tokyo,9,118040,2,0
+1031,42,Female,Marketing,Berlin,8,101558,4,1
+1032,30,Female,Engineering,New York,12,126205,4,0
+1033,39,Female,HR,New York,9,46910,2,0
+1034,25,Male,HR,New York,7,97713,3,0
+1035,46,Non-Binary,Finance,London,7,86857,3,1
+1036,35,Male,Marketing,Paris,0,74964,5,0
+1037,30,Non-Binary,HR,Tokyo,9,125667,1,1
+1038,47,Male,Engineering,Berlin,10,65227,3,0
+1039,23,Non-Binary,Engineering,Berlin,4,45978,1,0
+1040,41,Male,HR,London,3,127527,4,0
+1041,49,Female,Marketing,New York,1,57153,1,0
+1042,28,Male,Engineering,London,7,99765,4,0
+1043,29,Non-Binary,Finance,Paris,2,139084,2,0
+1044,56,Male,Engineering,Paris,3,148212,2,0
+1045,35,Male,Sales,Tokyo,11,79071,5,0
+1046,38,Male,Sales,Tokyo,6,109519,3,1
+1047,57,Female,Marketing,Paris,9,49503,5,0
+1048,25,Male,HR,Paris,8,100703,4,1
+1049,23,Female,Marketing,Paris,1,104379,5,0
+1050,27,Female,Marketing,London,2,135457,1,0
+1051,25,Male,Marketing,Paris,3,97866,4,0
+1052,50,Male,Marketing,Berlin,9,56905,2,0
+1053,39,Male,Finance,New York,0,85838,3,0
+1054,47,Non-Binary,Finance,Paris,6,98279,4,0
+1055,55,Male,Engineering,New York,1,129489,4,0
+1056,31,Female,Sales,London,4,66806,1,1
+1057,57,Male,Marketing,New York,14,85000,3,0
+1058,35,Non-Binary,Engineering,London,0,62168,2,0
+1059,52,Male,Sales,Berlin,2,110119,4,1
+1060,36,Non-Binary,HR,London,11,78714,4,0
+1061,29,Non-Binary,Finance,London,1,94093,1,0
+1062,35,Male,Sales,Tokyo,0,95419,5,0
+1063,44,Female,HR,Paris,6,89145,2,0
+1064,42,Non-Binary,Sales,Paris,4,145432,3,0
+1065,37,Male,Finance,Berlin,0,117425,4,0
+1066,39,Male,Finance,Berlin,5,132949,4,0
+1067,45,Female,Engineering,Paris,4,117811,2,0
+1068,47,Non-Binary,Marketing,Tokyo,14,42461,5,0
+1069,46,Non-Binary,Sales,Paris,2,54291,4,0
+1070,50,Male,Sales,Tokyo,11,86804,2,0
+1071,36,Male,HR,Berlin,6,116971,1,0
+1072,22,Female,Finance,New York,10,133471,5,0
+1073,46,Female,Sales,Berlin,9,104946,3,0
+1074,28,Non-Binary,Finance,Berlin,8,138989,4,1
+1075,30,Non-Binary,Sales,London,13,124080,2,0
+1076,45,Male,Engineering,London,12,101332,1,0
+1077,22,Non-Binary,Marketing,London,12,117794,3,0
+1078,29,Female,Sales,London,8,70841,2,0
+1079,45,Female,Finance,Tokyo,13,88758,2,0
+1080,32,Male,Engineering,Paris,8,116272,3,0
+1081,38,Female,Sales,New York,1,77643,1,0
+1082,29,Female,HR,Berlin,2,90408,1,0
+1083,56,Female,Marketing,Tokyo,6,83950,5,0
+1084,56,Female,Sales,New York,4,96849,4,1
+1085,54,Male,Engineering,Tokyo,1,140500,3,0
+1086,26,Male,HR,Tokyo,2,68044,3,0
+1087,49,Non-Binary,Engineering,Berlin,9,145469,3,0
+1088,28,Female,Engineering,Paris,5,55997,1,0
+1089,30,Non-Binary,HR,London,12,119751,4,0
+1090,29,Male,Engineering,Paris,6,138605,5,0
+1091,33,Male,HR,Berlin,8,63911,2,0
+1092,55,Male,Sales,Berlin,0,95533,2,0
+1093,54,Male,HR,Berlin,10,122566,3,0
+1094,44,Male,HR,New York,6,134870,4,0
+1095,45,Male,Marketing,Paris,7,54571,1,0
+1096,58,Male,HR,Paris,11,148255,4,0
+1097,56,Female,HR,Tokyo,13,134463,4,0
+1098,43,Non-Binary,Sales,Tokyo,2,97941,1,0
+1099,48,Male,Marketing,Tokyo,3,98005,3,0
+1100,56,Female,Finance,Berlin,9,126250,4,1
+1101,22,Female,Sales,Paris,5,98712,2,0
+1102,56,Non-Binary,Sales,Berlin,9,83541,1,0
+1103,58,Male,Finance,New York,6,63387,5,0
+1104,35,Non-Binary,HR,Tokyo,12,133980,3,0
+1105,24,Male,Engineering,Berlin,13,88908,1,0
+1106,22,Female,Marketing,Berlin,3,125457,5,0
+1107,26,Female,Engineering,New York,7,53057,5,0
+1108,47,Female,Finance,London,4,104028,4,0
+1109,35,Female,Sales,Paris,0,95731,4,0
+1110,48,Non-Binary,Sales,London,3,64858,4,0
+1111,30,Male,Marketing,Tokyo,2,88689,1,0
+1112,36,Male,Sales,Berlin,8,84638,1,1
+1113,36,Non-Binary,Sales,New York,7,131598,3,0
+1114,47,Male,Marketing,New York,0,142386,4,0
+1115,34,Female,Marketing,Paris,10,86486,5,0
+1116,53,Male,Finance,London,5,60567,2,1
+1117,53,Female,Sales,Paris,8,69739,3,0
+1118,25,Non-Binary,Sales,Berlin,6,97804,1,0
+1119,51,Male,Finance,Paris,3,148821,3,0
+1120,58,Non-Binary,HR,New York,12,43754,3,0
+1121,44,Male,HR,New York,0,67044,3,0
+1122,36,Female,HR,Tokyo,11,107260,3,0
+1123,50,Non-Binary,Finance,Tokyo,1,106912,2,0
+1124,57,Male,Sales,Berlin,11,48706,4,0
+1125,34,Female,Finance,London,4,48894,5,0
+1126,53,Non-Binary,Finance,Paris,11,58037,3,1
+1127,28,Non-Binary,HR,Berlin,10,123986,3,0
+1128,43,Male,Engineering,Tokyo,4,121942,3,0
+1129,49,Male,Sales,Paris,7,91612,4,0
+1130,23,Male,HR,Tokyo,5,69725,1,1
+1131,27,Female,Engineering,Paris,7,45926,1,0
+1132,49,Male,Engineering,London,1,144555,2,1
+1133,49,Non-Binary,Marketing,Berlin,2,49496,1,0
+1134,41,Non-Binary,Sales,Paris,5,96447,3,0
+1135,51,Male,Engineering,New York,11,141604,3,0
+1136,32,Male,HR,New York,12,69806,3,1
+1137,49,Non-Binary,Marketing,Paris,9,128199,2,0
+1138,46,Female,Sales,Paris,2,81321,3,1
+1139,54,Male,Finance,Paris,5,142031,1,1
+1140,22,Male,HR,New York,5,105095,4,0
+1141,48,Non-Binary,Engineering,New York,1,62656,4,0
+1142,34,Male,Engineering,Paris,6,95147,5,1
+1143,24,Female,HR,Tokyo,11,131396,1,0
+1144,27,Non-Binary,Engineering,Tokyo,1,89666,3,0
+1145,29,Male,Marketing,London,5,122368,4,0
+1146,48,Non-Binary,Sales,Berlin,0,78787,1,0
+1147,30,Male,Marketing,Tokyo,2,102946,4,1
+1148,58,Male,Engineering,New York,1,61727,3,0
+1149,54,Male,Finance,Tokyo,6,148351,4,0
+1150,45,Female,Sales,London,13,135081,5,0
+1151,36,Female,Sales,London,3,108056,5,0
+1152,53,Non-Binary,HR,Berlin,7,43081,4,1
+1153,53,Male,HR,Tokyo,5,74196,1,0
+1154,45,Male,Finance,New York,11,76735,1,0
+1155,33,Female,Sales,New York,9,144749,1,0
+1156,23,Male,Finance,Paris,3,120102,4,0
+1157,24,Female,HR,New York,4,119578,1,1
+1158,58,Male,HR,Berlin,12,65498,3,0
+1159,38,Non-Binary,Sales,Berlin,12,116865,5,0
+1160,23,Male,Marketing,New York,14,71656,3,0
+1161,23,Male,Engineering,New York,14,107695,1,1
+1162,49,Female,HR,Paris,8,77900,3,0
+1163,44,Male,HR,New York,6,124899,1,0
+1164,58,Male,Marketing,Paris,9,87701,4,0
+1165,53,Female,Marketing,Paris,13,148777,3,1
+1166,54,Non-Binary,Finance,New York,13,59033,4,0
+1167,22,Non-Binary,Finance,London,8,50805,4,0
+1168,40,Female,Engineering,London,6,75851,2,0
+1169,23,Female,Engineering,Paris,11,66832,1,0
+1170,47,Female,Sales,New York,0,103437,5,0
+1171,53,Female,Finance,London,11,53944,1,1
+1172,27,Female,HR,New York,7,59873,5,0
+1173,53,Non-Binary,Finance,New York,3,80372,1,0
+1174,25,Non-Binary,HR,New York,2,129464,4,0
+1175,32,Female,Marketing,Tokyo,13,55379,3,0
+1176,38,Male,Finance,New York,12,76751,3,0
+1177,59,Female,Marketing,Tokyo,6,140082,2,1
+1178,45,Male,Engineering,Paris,11,129822,5,0
+1179,26,Female,Engineering,London,2,45110,5,0
+1180,55,Female,Sales,London,7,94341,5,0
+1181,27,Non-Binary,Finance,London,5,52087,4,0
+1182,43,Male,Marketing,London,4,63762,5,0
+1183,32,Male,HR,London,3,122617,3,0
+1184,37,Non-Binary,Engineering,London,7,140483,4,1
+1185,54,Non-Binary,Engineering,London,7,49596,1,0
+1186,30,Non-Binary,HR,Paris,11,143555,5,0
+1187,27,Non-Binary,Marketing,New York,0,147539,5,1
+1188,37,Male,Marketing,Berlin,8,58313,1,0
+1189,50,Male,Finance,Tokyo,13,106549,5,0
+1190,24,Female,Finance,Berlin,4,63705,1,0
+1191,41,Female,Sales,Berlin,3,107364,4,0
+1192,57,Non-Binary,Engineering,New York,5,113445,3,0
+1193,40,Non-Binary,Finance,New York,5,143892,1,0
+1194,47,Non-Binary,Marketing,New York,1,118645,2,0
+1195,24,Female,HR,London,7,42023,1,0
+1196,40,Female,Marketing,Paris,6,99796,5,0
+1197,41,Female,Engineering,London,0,120073,4,0
+1198,53,Female,Marketing,Paris,4,132197,4,0
+1199,28,Female,Sales,Paris,11,104429,1,0
+1200,54,Female,Engineering,Berlin,5,144195,3,0
+1201,39,Female,HR,Berlin,3,101627,2,1
+1202,22,Non-Binary,Sales,Paris,1,73848,4,0
+1203,32,Non-Binary,Engineering,Paris,12,77804,5,0
+1204,49,Non-Binary,HR,London,13,55379,5,1
+1205,46,Non-Binary,Sales,London,3,99664,3,0
+1206,44,Female,Sales,Berlin,0,67766,4,0
+1207,52,Male,Engineering,New York,6,149126,1,0
+1208,51,Female,Finance,Paris,1,108099,5,1
+1209,56,Male,Sales,London,12,76060,3,0
+1210,28,Non-Binary,Sales,Berlin,1,134733,4,0
+1211,37,Female,HR,London,8,109122,4,1
+1212,47,Non-Binary,Marketing,Paris,4,56087,4,0
+1213,23,Female,Engineering,Paris,1,88868,4,0
+1214,22,Non-Binary,Engineering,Tokyo,10,63225,4,0
+1215,33,Male,Finance,New York,8,135286,5,0
+1216,26,Male,Finance,Tokyo,8,46643,3,0
+1217,58,Male,Engineering,Berlin,0,133059,4,0
+1218,53,Female,Finance,London,10,76727,2,0
+1219,30,Male,HR,Berlin,2,51005,2,1
+1220,56,Female,Engineering,Paris,3,149079,3,0
+1221,40,Male,Finance,Tokyo,13,105697,1,0
+1222,37,Male,Engineering,Tokyo,6,56029,1,0
+1223,24,Female,Marketing,Tokyo,9,54226,1,0
+1224,41,Female,Sales,Berlin,3,103646,2,0
+1225,45,Male,Engineering,Paris,1,100603,1,0
+1226,54,Female,Sales,London,6,68731,5,0
+1227,45,Male,Finance,London,5,149458,4,0
+1228,32,Female,Sales,Berlin,2,108926,2,0
+1229,29,Non-Binary,Engineering,Tokyo,5,45997,3,0
+1230,57,Non-Binary,Marketing,New York,10,95506,3,0
+1231,59,Non-Binary,Finance,Berlin,14,118229,4,0
+1232,41,Non-Binary,Engineering,Berlin,5,89815,2,0
+1233,56,Non-Binary,Finance,Paris,11,82092,1,0
+1234,46,Male,HR,London,4,102539,1,0
+1235,56,Non-Binary,Sales,Berlin,3,106077,5,1
+1236,46,Non-Binary,HR,Berlin,9,61817,5,0
+1237,50,Non-Binary,Engineering,Tokyo,11,77861,1,0
+1238,39,Non-Binary,Marketing,Tokyo,14,53428,3,0
+1239,39,Female,Finance,New York,0,83934,3,0
+1240,23,Male,Sales,Paris,9,50258,5,0
+1241,56,Non-Binary,Finance,New York,5,97775,4,0
+1242,37,Non-Binary,Engineering,Tokyo,1,121580,1,0
+1243,57,Non-Binary,Finance,London,12,134947,5,1
+1244,54,Male,Sales,Tokyo,2,45469,5,0
+1245,25,Female,Engineering,Paris,13,68854,1,1
+1246,54,Male,Finance,Tokyo,7,46256,1,0
+1247,35,Female,Marketing,Paris,9,116256,3,0
+1248,42,Non-Binary,Engineering,Paris,13,73937,4,0
+1249,41,Non-Binary,Engineering,Paris,13,139134,4,0
+1250,29,Male,Marketing,Paris,5,41651,1,0
+1251,28,Male,HR,Paris,2,90288,2,1
+1252,24,Female,Sales,London,6,124730,5,0
+1253,38,Female,HR,New York,3,65051,5,0
+1254,54,Male,Finance,Berlin,13,67386,1,0
+1255,33,Female,Marketing,New York,8,115054,2,0
+1256,43,Male,HR,Paris,14,56184,3,0
+1257,43,Female,Engineering,London,4,73787,1,0
+1258,51,Male,Finance,Tokyo,2,61621,1,0
+1259,59,Male,Finance,London,1,115564,5,0
+1260,59,Male,HR,Paris,10,117984,1,0
+1261,29,Female,HR,London,1,99792,1,1
+1262,48,Female,Marketing,London,2,85253,1,0
+1263,48,Female,Sales,Paris,1,74051,5,0
+1264,55,Male,HR,London,13,89811,3,0
+1265,42,Female,HR,Berlin,3,70447,3,1
+1266,51,Female,Engineering,Berlin,1,123930,1,0
+1267,54,Male,Finance,London,9,140037,5,1
+1268,49,Non-Binary,Sales,Tokyo,8,70254,3,0
+1269,54,Male,Engineering,Paris,1,124045,3,0
+1270,26,Female,Marketing,Berlin,8,97418,3,0
+1271,40,Male,Marketing,Tokyo,12,54472,5,1
+1272,25,Non-Binary,HR,London,5,43471,5,0
+1273,56,Male,HR,Tokyo,0,147332,1,0
+1274,38,Female,Marketing,New York,3,135804,4,0
+1275,49,Non-Binary,HR,Berlin,14,48329,3,0
+1276,51,Female,Sales,London,13,74865,4,0
+1277,50,Non-Binary,HR,Paris,0,86850,5,0
+1278,27,Non-Binary,Finance,London,13,94220,5,1
+1279,56,Male,HR,Paris,5,133808,5,0
+1280,58,Male,Engineering,London,13,148381,4,0
+1281,45,Female,Sales,Tokyo,12,46397,5,0
+1282,50,Male,Engineering,Tokyo,3,137909,1,0
+1283,52,Male,Engineering,Tokyo,2,75525,5,0
+1284,56,Non-Binary,Finance,New York,2,93072,2,0
+1285,54,Male,Sales,Paris,8,130106,4,0
+1286,42,Non-Binary,Sales,Tokyo,5,123820,2,1
+1287,53,Non-Binary,Sales,New York,8,124530,5,1
+1288,44,Non-Binary,Sales,Paris,12,63284,1,0
+1289,54,Female,Sales,London,4,101330,3,1
+1290,24,Female,Finance,New York,1,123369,5,0
+1291,39,Female,HR,Berlin,7,65122,1,0
+1292,46,Non-Binary,Engineering,New York,4,110553,4,0
+1293,52,Female,Sales,New York,1,121906,2,0
+1294,24,Female,HR,Paris,3,134788,2,0
+1295,45,Male,HR,London,8,102812,2,1
+1296,53,Female,Engineering,Berlin,14,47999,4,0
+1297,43,Female,Finance,Tokyo,3,62436,1,1
+1298,44,Non-Binary,Marketing,Tokyo,12,82963,4,0
+1299,23,Non-Binary,Marketing,New York,11,42096,2,0
+1300,48,Non-Binary,HR,Paris,11,65279,5,1
+1301,23,Non-Binary,Engineering,Paris,11,148899,3,0
+1302,47,Non-Binary,Marketing,Tokyo,12,66201,4,0
+1303,38,Non-Binary,HR,Berlin,14,59715,4,0
+1304,54,Female,Finance,London,13,69309,1,0
+1305,30,Non-Binary,Marketing,Berlin,3,55078,1,0
+1306,50,Non-Binary,HR,London,1,96614,4,0
+1307,47,Male,HR,Tokyo,12,45105,2,0
+1308,56,Female,Sales,London,11,134848,3,1
+1309,46,Female,Finance,Paris,14,42839,1,0
+1310,45,Female,Sales,New York,5,108920,2,0
+1311,34,Non-Binary,Engineering,New York,12,83619,5,0
+1312,28,Non-Binary,Sales,Tokyo,10,82821,1,1
+1313,57,Non-Binary,Sales,Paris,13,53493,2,0
+1314,41,Male,Marketing,Berlin,1,57069,2,0
+1315,22,Non-Binary,HR,Paris,11,47531,3,0
+1316,29,Male,Finance,New York,6,77051,3,0
+1317,37,Female,Sales,New York,2,47736,5,0
+1318,35,Non-Binary,Finance,Paris,14,47710,2,0
+1319,33,Male,Sales,Paris,2,107155,2,0
+1320,44,Male,Engineering,New York,4,53975,3,0
+1321,36,Non-Binary,Sales,Berlin,2,102424,1,0
+1322,49,Female,Marketing,Tokyo,1,85603,1,1
+1323,55,Female,HR,Tokyo,9,63252,4,1
+1324,23,Female,Engineering,Paris,8,120797,3,0
+1325,53,Male,Sales,Tokyo,1,41431,4,1
+1326,44,Male,Finance,New York,13,114603,3,0
+1327,43,Male,Engineering,New York,10,77481,5,0
+1328,46,Male,Engineering,Paris,1,132573,2,0
+1329,43,Female,Sales,Paris,12,49557,5,0
+1330,43,Non-Binary,Engineering,Paris,14,114971,3,0
+1331,27,Male,Finance,Berlin,7,143302,2,1
+1332,36,Male,Engineering,Tokyo,14,40162,1,0
+1333,58,Female,Finance,Paris,8,74742,1,1
+1334,54,Non-Binary,Sales,London,6,59675,4,0
+1335,29,Non-Binary,HR,London,2,113997,3,0
+1336,26,Female,Engineering,New York,8,57015,3,0
+1337,25,Female,HR,Tokyo,2,90057,1,0
+1338,27,Non-Binary,Finance,Paris,4,72591,5,0
+1339,53,Male,Engineering,London,8,133583,2,0
+1340,51,Non-Binary,Marketing,Tokyo,11,140318,5,0
+1341,56,Female,HR,New York,13,49833,5,0
+1342,37,Male,Engineering,Berlin,13,47896,1,0
+1343,34,Male,HR,Tokyo,2,72972,1,0
+1344,51,Female,Engineering,Tokyo,6,89733,1,0
+1345,40,Female,Sales,Berlin,11,81800,4,0
+1346,38,Female,HR,Tokyo,0,136044,5,0
+1347,40,Non-Binary,Marketing,New York,3,45347,3,0
+1348,49,Non-Binary,Marketing,New York,3,99063,2,1
+1349,47,Male,Finance,Berlin,6,135850,4,0
+1350,58,Female,Engineering,Paris,7,42643,3,1
+1351,47,Male,HR,London,0,80785,5,0
+1352,44,Male,Finance,Paris,4,58681,1,1
+1353,30,Male,HR,Tokyo,6,90026,5,1
+1354,33,Male,Engineering,London,11,143864,2,0
+1355,22,Female,Marketing,Berlin,3,55892,4,0
+1356,22,Male,Sales,Berlin,12,87299,4,0
+1357,55,Female,Marketing,London,3,57073,2,0
+1358,53,Female,Finance,New York,3,142304,3,0
+1359,46,Non-Binary,Sales,London,11,70682,3,0
+1360,22,Female,Finance,Tokyo,5,137798,4,0
+1361,37,Non-Binary,Engineering,New York,6,136894,4,0
+1362,26,Female,Sales,Berlin,1,54289,1,0
+1363,43,Female,Finance,London,14,47927,3,0
+1364,50,Female,Engineering,Paris,4,88330,2,1
+1365,24,Non-Binary,Marketing,Paris,3,106707,3,0
+1366,33,Non-Binary,Engineering,Tokyo,14,117454,1,0
+1367,47,Male,HR,Paris,13,147439,4,0
+1368,37,Non-Binary,Engineering,London,12,144646,4,0
+1369,58,Non-Binary,Engineering,London,2,105428,1,1
+1370,43,Non-Binary,HR,Paris,6,90601,2,1
+1371,50,Non-Binary,Finance,London,10,117465,4,1
+1372,35,Male,Finance,Tokyo,11,42539,5,0
+1373,49,Non-Binary,Engineering,New York,5,142263,4,0
+1374,26,Female,HR,Tokyo,13,62669,5,0
+1375,51,Female,HR,Tokyo,6,110968,1,0
+1376,26,Non-Binary,Marketing,London,4,60644,1,1
+1377,33,Non-Binary,Finance,New York,12,58745,4,0
+1378,37,Female,Sales,London,5,68228,3,0
+1379,47,Female,Finance,Berlin,4,74521,5,0
+1380,47,Male,Finance,London,13,137239,2,0
+1381,42,Female,Marketing,London,6,66928,4,0
+1382,57,Female,Sales,London,1,58322,2,0
+1383,54,Non-Binary,Marketing,New York,13,97714,4,0
+1384,51,Female,Sales,London,10,127896,3,0
+1385,58,Male,Engineering,New York,4,102292,3,0
+1386,44,Female,Sales,Paris,5,69055,3,0
+1387,31,Non-Binary,Marketing,Berlin,5,82891,3,0
+1388,26,Non-Binary,Finance,New York,14,121912,1,1
+1389,57,Female,Sales,Paris,4,46588,1,0
+1390,55,Non-Binary,Sales,New York,9,130536,5,0
+1391,52,Male,HR,New York,6,46304,2,0
+1392,31,Male,Finance,Berlin,9,47345,4,0
+1393,40,Female,Engineering,Tokyo,7,69300,4,1
+1394,53,Female,Marketing,Tokyo,6,64259,1,0
+1395,22,Female,Engineering,New York,4,131006,4,0
+1396,26,Non-Binary,Finance,London,0,128553,1,0
+1397,25,Male,Sales,Paris,12,55352,5,0
+1398,37,Male,Sales,London,4,73365,2,0
+1399,45,Non-Binary,Finance,London,9,59446,5,0
+1400,37,Male,Sales,New York,1,42336,3,0
+1401,23,Female,Sales,New York,12,102032,3,0
+1402,49,Female,Sales,New York,4,115415,3,0
+1403,53,Female,Marketing,New York,4,137852,5,1
+1404,48,Male,Marketing,Tokyo,1,138876,4,0
+1405,41,Female,HR,New York,4,47521,2,0
+1406,45,Non-Binary,Engineering,Tokyo,12,111707,3,0
+1407,33,Non-Binary,Finance,Tokyo,3,63481,3,0
+1408,56,Male,Finance,New York,0,58474,3,0
+1409,54,Non-Binary,Finance,Berlin,2,86760,2,0
+1410,54,Non-Binary,HR,Paris,0,95718,3,0
+1411,58,Male,Marketing,London,11,84629,2,0
+1412,33,Female,HR,Tokyo,10,85232,3,0
+1413,24,Female,Finance,Paris,14,126544,5,0
+1414,22,Female,Engineering,Berlin,4,107169,5,0
+1415,54,Male,Sales,London,3,90669,2,0
+1416,31,Non-Binary,Marketing,London,6,118021,5,1
+1417,50,Female,Marketing,Tokyo,4,149153,2,0
+1418,34,Female,HR,New York,9,109184,5,0
+1419,33,Male,Marketing,Berlin,13,87945,5,0
+1420,52,Female,Finance,Tokyo,3,53140,2,0
+1421,23,Male,Finance,Berlin,1,123457,4,0
+1422,56,Non-Binary,HR,New York,3,54357,5,0
+1423,44,Male,Finance,New York,11,108673,3,0
+1424,38,Male,Engineering,Tokyo,1,105633,4,0
+1425,47,Male,HR,New York,7,116943,2,0
+1426,29,Male,Engineering,Paris,2,136111,4,0
+1427,50,Non-Binary,Sales,London,8,118258,1,0
+1428,47,Non-Binary,Engineering,Tokyo,12,52924,1,1
+1429,31,Female,Sales,Berlin,3,109286,5,0
+1430,47,Non-Binary,Sales,Paris,12,133269,5,0
+1431,55,Non-Binary,Engineering,Tokyo,5,114071,3,0
+1432,28,Female,HR,New York,9,97326,4,0
+1433,25,Non-Binary,Finance,New York,4,130023,1,0
+1434,32,Male,Finance,New York,9,70651,5,0
+1435,50,Male,Sales,New York,12,110202,4,0
+1436,57,Female,Sales,Berlin,0,88777,5,0
+1437,46,Female,HR,Paris,8,56994,5,1
+1438,42,Female,Marketing,London,0,107263,1,0
+1439,57,Male,Engineering,Berlin,7,99634,1,0
+1440,31,Non-Binary,Sales,Berlin,8,140158,5,0
+1441,58,Male,Finance,London,8,50800,2,0
+1442,30,Female,HR,London,0,77823,5,0
+1443,45,Non-Binary,Engineering,New York,1,148575,5,1
+1444,56,Non-Binary,HR,Berlin,11,103878,3,0
+1445,56,Male,Engineering,Tokyo,12,58708,3,0
+1446,57,Female,Engineering,London,0,52819,3,0
+1447,39,Male,Sales,London,9,114905,2,0
+1448,53,Non-Binary,HR,Paris,1,103870,2,0
+1449,45,Male,HR,Tokyo,9,49283,5,0
+1450,44,Male,Finance,Tokyo,11,70573,3,0
+1451,53,Female,Finance,London,7,118707,2,0
+1452,58,Female,Sales,New York,4,70933,1,0
+1453,33,Non-Binary,Sales,Paris,11,45774,5,0
+1454,34,Male,Marketing,Tokyo,10,112055,4,0
+1455,44,Male,Finance,London,6,50983,5,0
+1456,46,Male,Engineering,Tokyo,1,136468,4,0
+1457,56,Non-Binary,HR,Paris,7,136334,3,0
+1458,51,Non-Binary,Sales,Paris,10,58133,4,0
+1459,38,Female,HR,Berlin,5,54939,3,1
+1460,41,Female,HR,London,7,40781,1,0
+1461,46,Female,Marketing,Paris,0,96700,4,0
+1462,43,Male,Finance,Berlin,14,67624,5,0
+1463,34,Male,Sales,Berlin,0,46823,3,0
+1464,40,Female,HR,Tokyo,11,58489,5,0
+1465,57,Male,Sales,Tokyo,6,79961,2,0
+1466,33,Female,Engineering,Berlin,7,69118,3,1
+1467,40,Non-Binary,Marketing,Tokyo,12,140417,4,0
+1468,33,Female,Engineering,Paris,2,121816,3,0
+1469,30,Non-Binary,Sales,New York,4,62263,5,0
+1470,28,Male,Sales,Paris,11,53565,1,0
+1471,49,Female,Finance,Berlin,0,60354,3,0
+1472,35,Male,HR,Berlin,6,82951,4,0
+1473,52,Non-Binary,HR,Paris,4,131179,2,0
+1474,40,Non-Binary,Engineering,Tokyo,7,63648,1,1
+1475,37,Non-Binary,Marketing,Tokyo,12,90729,2,0
+1476,26,Male,HR,Berlin,7,81971,3,0
+1477,56,Male,Finance,London,8,58658,5,0
+1478,33,Male,Engineering,Tokyo,6,61253,5,0
+1479,46,Male,Engineering,Paris,10,104166,4,0
+1480,42,Non-Binary,Finance,Tokyo,0,88563,5,0
+1481,57,Non-Binary,Marketing,Paris,12,66390,1,0
+1482,44,Female,Finance,Berlin,2,128664,5,0
+1483,37,Female,Marketing,Tokyo,7,91578,4,0
+1484,35,Male,Finance,Paris,2,119025,3,0
+1485,52,Non-Binary,Finance,Berlin,7,143850,3,0
+1486,26,Non-Binary,Sales,London,0,72658,5,0
+1487,56,Non-Binary,Engineering,Paris,4,46852,2,0
+1488,44,Female,Finance,London,3,134986,3,0
+1489,50,Female,Finance,London,4,42551,5,0
+1490,32,Non-Binary,HR,New York,7,111947,4,0
+1491,39,Non-Binary,Engineering,Tokyo,9,101001,5,1
+1492,33,Non-Binary,HR,Paris,14,89159,3,0
+1493,30,Female,Engineering,London,13,91707,4,0
+1494,31,Non-Binary,HR,New York,3,73243,5,0
+1495,38,Non-Binary,Finance,Berlin,10,61800,1,0
+1496,59,Male,Finance,Paris,3,115939,4,0
+1497,28,Male,Sales,London,14,97828,1,0
+1498,34,Female,HR,Tokyo,2,47239,2,0
+1499,30,Non-Binary,Marketing,New York,6,46710,4,0
+1500,48,Non-Binary,Sales,London,2,61384,1,0

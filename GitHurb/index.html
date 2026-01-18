@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smith Toussaint | Portfolio Data Analyst</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --text: #f8fafc;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            font-size: 1.1rem;
+            color: #94a3b8;
+            margin-bottom: 2rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            padding: 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s, border-color 0.2s;
+            border: 1px solid transparent;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+
+        .card h3 {
+            margin: 0 0 10px 0;
+            color: var(--primary);
+        }
+
+        .card p {
+            font-size: 0.9rem;
+            margin: 0;
+        }
+
+        .btn {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 24px;
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>📊 Smith Toussaint</h1>
+        <p>Data Analyst | IBM & Google Certified</p>
+
+        <div class="grid">
+            <a href="./Project1_Sales/" class="card">
+                <h3>Ventes & Profits</h3>
+                <p>Analyse SQL & Python des performances commerciales.</p>
+            </a>
+            <a href="./Project2_Finance/" class="card">
+                <h3>Finance & Croissance</h3>
+                <p>Monitoring des marges et YoY Growth.</p>
+            </a>
+            <a href="./Project3_HR/" class="card">
+                <h3>RH & Attrition</h3>
+                <p>Analyse de la rétention et des KPIs workforce.</p>
+            </a>
+            <a href="./Project4_NGO/" class="card">
+                <h3>Santé & NGO</h3>
+                <p>Impact social et analyse de données publiques.</p>
+            </a>
+        </div>
+
+        <a href="https://github.com/SmithToussaint/Toussaint-Portfolio" class="btn">Voir sur GitHub</a>
+    </div>
+</body>
+
+</html>
